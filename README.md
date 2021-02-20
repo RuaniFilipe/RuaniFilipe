@@ -21,16 +21,16 @@ Estou finalizando o módulo de Front-End, já tendo aprendido, além de Jest e R
   </p>
   
   
-  <p align="left"> Em Desenvolvimento, pelo Bootcamp da Digital Innovation One:
+  <p align="left"> Em Desenvolvimento, pelo Bootcamp da Digital Innovation One:<br>
   <a href="https://angularjs.org">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
   </a>
   </p>
   
-  [![Ruani Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanifilipe&hide=contribs,prs,issues&theme=radical)]
+  [![Ruani Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanifilipe&hide=contribs,prs,issues,stars&theme=highcontrast)]<br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanifilipe&layout=compact)]
   
-   <p align="center"> Meu Linkedin
+   <p align="center"> Meu Linkedin: <br>
    <a href="https://www.linkedin.com/in/ruani-filipe-albuquerque/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
