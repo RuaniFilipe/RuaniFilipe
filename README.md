@@ -27,13 +27,16 @@ Estou finalizando o módulo de Front-End, já tendo aprendido, além de Jest e R
   </a>
   </p>
   
-  [![Ruani Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanifilipe&hide=contribs,prs,issues,stars&theme=highcontrast)]<br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanifilipe&layout=compact)]
   
    <p align="center"> Meu Linkedin: <br>
    <a href="https://www.linkedin.com/in/ruani-filipe-albuquerque/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
   </p>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanifilipe&layout=compact)]<br>
+  [![Ruani Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanifilipe&hide=contribs,prs,issues,stars&theme=highcontrast)]
+  
+  
 
 
